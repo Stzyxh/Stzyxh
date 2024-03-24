@@ -1,11 +1,12 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Stzyxh</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lostwolf&label=Profile%20views&color=0e75b6&style=flat" alt="lostwolf" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Stzyxh&label=Profile%20views&color=0e75b6&style=flat" alt="Stzyxh" /> </p>
 
 
 
-- 🔭 I’m currently working on **a randomiser for the Minecraft Bedrock Edition**
-- Cool things i made [theme for bridge](https://tauri.localhost/?viewExtension=8da5c1bc-4028-11ee-be56-0242ac120002)
+-  I’m currently working on **a randomiser for the Minecraft Bedrock Edition**
+- Cool things i made
+  [theme for bridge](https://tauri.localhost/?viewExtension=8da5c1bc-4028-11ee-be56-0242ac120002)
 -  I’m currently learning **Web development**
 -  I am from **Austria**
 
