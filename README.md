@@ -6,7 +6,7 @@
 
 -  I’m currently working on **a randomiser for the Minecraft Bedrock Edition**
 - Cool things i made
-  [theme for bridge](https://tauri.localhost/?viewExtension=8da5c1bc-4028-11ee-be56-0242ac120002)
+    - **Theme for the Bridge Editor** <div> <a href="https://tauri.localhost/?viewExtension=8da5c1bc-4028-11ee-be56-0242ac120002" target="_blank"><img src="weather-night.svg" target="_blank" width="5%"></a>
 -  I’m currently learning **Web development**
 -  I am from **Austria**
 
