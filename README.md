@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Stzyxh</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Stzyxh&label=Profile%20views&color=0e75b6&style=flat" alt="Stzyxh" /> </p>
 
+I'm a Young Developer that want top creat awesome Open Source Projects.
 
 
 -  I’m currently working on **a randomiser for the Minecraft Bedrock Edition**
