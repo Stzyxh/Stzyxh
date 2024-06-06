@@ -1,24 +1,33 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi 👋, I'm Stzyxh</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Stzyxh&label=Profile%20views&color=0e75b6&style=flat" alt="Stzyxh" /> </p>
+<h2 align="left">Hi 👋! My name is Stzyxh and I'm a random from Austria</h2>
 
-I'm a Young Developer that want to create awesome Open Source Projects.
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Stzyxh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Stzyxh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
--  I’m currently working on **a randomiser for the Minecraft Bedrock Edition**
-- Cool things i made
-    - **Theme for the Bridge Editor** <div> <a href="https://tauri.localhost/?viewExtension=8da5c1bc-4028-11ee-be56-0242ac120002" target="_blank"><img src="weather-night.svg" target="_blank" width="5%"></a>
--  I’m currently learning **Web development**
--  I am from **Austria**
+###
 
-<div> <a href="https://github.com/Stzyxh" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+</div>
 
+###
 
-<a href="https://github.com/Stzyxh">
+<div align="left">
+  <a href="https://www.youtube.com/@stzyxhmc" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+</div>
 
-  [![Stzyxh's Github stats](https://github-readme-stats.vercel.app/api?username=Stzyxh&show_icons=true&theme=radical)](https://github.com/Stzyxh)
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Stzyxh/Stzyxh/output/snake.svg" alt="Snake animation" />
+
+###
