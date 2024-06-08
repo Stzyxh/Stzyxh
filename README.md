@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Stzyxh from Austria<br><br>- 📚 I'm currently learning web development<br>- ⚡ In my free time I like to read books and code stuff</p>
+<p align="left">I'm Stzyxh from Earth (yes)<br><br>- 📚 I'm currently learning web development<br>- ⚡ In my free time I like to read books and code stuff</p>
 
 ###
 
