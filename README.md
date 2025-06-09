@@ -32,7 +32,12 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Stzyxh/Stzyxh/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="GitHub Snake Animation" src="dist/github-snake.svg" />
+</picture>
+
 
 ###
 
