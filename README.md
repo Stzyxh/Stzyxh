@@ -1,1 +1,1 @@
-<h1 align="middle">This is the thing which is often quite long , but wich which is never read</h1>
+<h1 align="middle">This is often quite lengthy, yet it remains unread.</h1>
